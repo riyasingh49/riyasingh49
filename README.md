@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=4B8BBE&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+profile!;Hi%2C+I'm+Riya+Singh+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer;Java+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=4B8BBE&center=true&vCenter=true&width=450&lines=Welcome+to+my+GitHub+profile!;Hi%2C+I'm+Riya+Singh+%F0%9F%91%8B;A+Full+Stack+Web+Developer;Java+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🌐 Building interfaces with **HTML**, **CSS**, **Bootstrap**, and **ReactJS**
+- 🌐 Building interfaces with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **ReactJS**
 - ☕ Exploring backend with **Java**, **MySQL**, and **JDBC**
 - 🚀 Always curious to learn and grow
 
@@ -17,6 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -29,11 +30,10 @@
 ### 🌱 Current Focus
 
 - Deepening my knowledge in frontend frameworks & backend integration
+- Mastering JavaScript and advanced web interactivity
 - Practicing and improving data structures and algorithms
 - Working on personal and collaborative web projects
 - Experimenting with new web technologies and tools
-
-
 ---
 
 ### 📫 Connect with Me
