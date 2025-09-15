@@ -54,9 +54,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5dXJtZjBma2l5eHhkbGZqNmlrY3l5d3h2b2txN2Fwa2EwM2t4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="Thank you GIF" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXU5dXJtZjBma2l5eHhkbGZqNmlrY3l5d3h2b2txN2Fwa2EwM2t4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufnwz3wDUli7GU0/giphy.gif" width="200" alt="Thank you GIF" />
-</p>
+
 
 
 
