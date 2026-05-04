@@ -6,7 +6,7 @@
 
 ### 👩‍💻 About Me
 
-- 🌐 Building interfaces with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **ReactJS**
+- 🌐 Building interfaces with **HTML**, **CSS**, **JavaScript**,**TypeScript** **Bootstrap**,**NextJS** and **ReactJS**
 - ☕ Exploring backend with **Java**, **MySQL**, and **JDBC**
 - 🚀 Always curious to learn and grow
 
