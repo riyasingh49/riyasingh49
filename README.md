@@ -73,6 +73,8 @@ Hi, I’m **Riya Singh**, a **Software Developer** interested in building clean,
 
 ---
 
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -80,6 +82,7 @@ Hi, I’m **Riya Singh**, a **Software Developer** interested in building clean,
 </p>
 
 ---
+
 
 ### 📫 Connect with Me
 
@@ -89,15 +92,9 @@ Hi, I’m **Riya Singh**, a **Software Developer** interested in building clean,
 
 <p align="center">
   <a href="https://www.linkedin.com/in/riya-singh-138b352a4">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/riyasingh49">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <b>Thanks for visiting my GitHub profile!</b>
 </p>
