@@ -74,13 +74,11 @@ Hi, I’m **Riya Singh**, a **Software Developer** interested in building clean,
 ---
 
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyasingh49&theme=default&hide_border=true" alt="Riya's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riyasingh49&theme=default&hide_border=true&v=4" alt="Riya's GitHub Streak" />
 </p>
-
 ---
 
 
